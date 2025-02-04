@@ -30,3 +30,8 @@
 
 **Conclusion:**
   This project successfully demonstrates how a Decision Tree Classifier can be applied to the Iris dataset for species classification. By incorporating stratified sampling, performance evaluation metrics, confusion matrix visualization, decision tree plotting, and feature importance analysis, we provide a comprehensive approach to model evaluation and interpretation.This analysis serves as a foundational step for further optimization, such as hyperparameter tuning or comparing the performance of different classifiers like Random Forests or Support Vector Machines (SVMs). Understanding the decision-making process of machine learning models is crucial for developing more interpretable and robust AI systems.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/74b82659-1ca5-473e-9fa7-658300bd272e)
+![Image](https://github.com/user-attachments/assets/daa738f6-e5fe-459d-93c7-5337d01bdf7e)
