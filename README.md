@@ -1,12 +1,5 @@
 # DECISION-TREE-IMPLEMENTATION
-**COMPANY**        : CODTECH IT SOLUTIONS
-**NAME**           : EDAMALAPATI MOTHILAL CHOWDARY
-**INTERN ID**      : CT12JJP
-**DOMAIN**         : MACHINE LEARNING
-**BATCH DURATION** : January 5th,2025 to March 5th,2025
-**MENTOR NAME**    : NEELA SANTHOSH
 
-# DESCRIPTION OF TASK :
 **Iris Dataset Classification Using Decision Tree : A Comprehensive Analysis**
   The Iris dataset is a well-known dataset in the field of machine learning and statistics, commonly used for classification tasks. It contains 150 observations of iris flowers, categorized into three different species: setosa, versicolor, and virginica. Each observation has four features: sepal length, sepal width, petal length, and petal width. In this task, we implement a Decision Tree Classifier to classify iris flowers based on these features. Additionally, we enhance the analysis with model evaluation, visualization techniques, and feature importance assessment.
 
